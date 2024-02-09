@@ -1,5 +1,5 @@
 # coding-project-template
-This repo is for the project which is to be based on Embedded AI libraries.
+Develop a Python web app using Flask and integrate Embeddable Watson AI libraries to make the web app showcase AI-based abilities.
 
 # Watson AI Integration
 The IBM Watson AI library will be used to perform sentiment Analysis on text.
